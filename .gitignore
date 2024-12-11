@@ -1,0 +1,8 @@
+# Ignore large datasets
+data/
+*.tmp*
+*.pdf
+*.docx
+*.csv
+models/
+.DS_Store
