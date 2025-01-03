@@ -48,5 +48,6 @@ Transformer based models showed  good results in summary generation and the comp
 ## Setup and Installation
 
 ### Prerequisites
-Ensure that Python 3.7 or higher is installed on your machine.
+Ensure that Python 3.7 or higher is installed  and the above mentioned libraries.
+This is code is better run on google colab since it requires GPU 
 
