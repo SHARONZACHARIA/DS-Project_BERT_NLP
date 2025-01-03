@@ -1,10 +1,10 @@
 # Overview
 
 This project explores the use of **transformer-based models** (BERT, T5) in comparison to **classical NLP techniques** (Bag-of-Words, TF-IDF) for tasks related to **text summarization**.
-The goal is to understand the performance of each models and the computational efficieny of each model.
+The goal is to understand the performance of each model and the computational efficieny of each model.
 ## Project Description
 
-This project compares the performance of **transformer-based models** (BERT and T5) with **traditional NLP techniques** such as **Bag-of-Words** (BoW) and **TF-IDF** for:**Text Summarization**: Condensing long news articles into concise summaries.By evaluating these models, we aim to highlight the advantages and limitations of transformers in comparison to classical methods for these tasks.
+This project compares the performance of **transformer-based models** (BERT and T5) with **traditional NLP techniques** such as **Bag-of-Words** (BoW) and **TF-IDF** for:**Text Summarization**.By evaluating these models, we aim to highlight the advantages and limitations of transformers in comparison to classical methods for these tasks.
 
 ## Dataset
 
