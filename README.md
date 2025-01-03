@@ -1,6 +1,6 @@
 # Overview
 
-This project explores the use of **transformer-based models** (BERT, T5) in comparison to **classical NLP techniques** (Bag-of-Words, TF-IDF) for tasks related to **text summarization** 
+This project explores the use of **transformer-based models** (BERT, T5) in comparison to **classical NLP techniques** (Bag-of-Words, TF-IDF) for tasks related to **text summarization**.
 The goal is to understand the performance of each models and the computational efficieny of each model.
 ## Project Description
 
@@ -10,7 +10,6 @@ This project compares the performance of **transformer-based models** (BERT and 
 
 This project uses the **CNN/Daily Mail** dataset, a popular dataset for training and evaluating text summarization models. 
 
-- Dataset: [CNN/Daily Mail Dataset](https://www.tensorflow.org/datasets/community_catalog/huggingface/cnn_dailymail)
 
 ## Methodology
 
@@ -32,7 +31,7 @@ This project uses the **CNN/Daily Mail** dataset, a popular dataset for training
 ### Evaluation Metrics
 
 - **ROUGE Score**: Measures the quality of the summaries.
--**Inference Time** : For calculating computational efficiency
+- **Inference Time** : For calculating computational efficiency
 
 ## Key Libraries
 
@@ -45,8 +44,6 @@ This project uses the **CNN/Daily Mail** dataset, a popular dataset for training
 ## Results
 
 Transformer based models showed  good results in summary generation and the computational efficiency was good for Classical models 
-
-- **BERT** and **T5** are expected to outperform the traditional methods
 
 ## Setup and Installation
 
