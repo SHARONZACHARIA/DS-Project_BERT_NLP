@@ -44,7 +44,7 @@ This project uses the **CNN/Daily Mail** dataset, a popular dataset for training
 
 ## Results
 
-The project aims to compare the performance of BERT, T5, BoW, and TF-IDF on text summarization and question answering:
+Transformer based models showed  good results in summary generation and the computational efficiency was good for Classical models 
 
 - **BERT** and **T5** are expected to outperform the traditional methods
 
